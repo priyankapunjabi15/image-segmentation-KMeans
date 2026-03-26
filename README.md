@@ -17,5 +17,5 @@ This repository contains a computer vision project focused on color-based image 
 
 ## Repository Structure
 * `image_segmentation.ipynb`: Core implementation and visualization.
-* `dataset/`: Contains the input images used for testing.
+* `data/`: Contains the input, output and test images used.
 * `Report.pdf`: Detailed documentation and analysis of the segmentation results.
